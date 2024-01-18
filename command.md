@@ -1,5 +1,5 @@
 # Подсказка по GIT
-![Git](git.jpg.png.png)
+![Git](git.jpg.png)
 
 ## Основные команды
 
@@ -67,4 +67,16 @@ del "filename"
 в Linux, MacOs:
 ```sh
 rm <filename>
+
+
+Показывает количество веток:
+```sh
+git branch
+``` 
+
+Толкать:
+```sh
+git push
+```
+
 
