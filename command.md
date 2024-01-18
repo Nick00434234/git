@@ -87,8 +87,10 @@ git merge
 ```sh
 git config --global user.email "kolyolenichev6@gmail.com"
 ```
-Создать новую ветку:
+Создать новую ветку
 ```sh
-git branch (branch_name)
+git branche (имя пользователя)
+```
+
 
 
