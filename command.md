@@ -31,7 +31,7 @@ git log --oneline
 
 Команда возвращения файла к исходному состоянию (на момент создания):
 ```sh
-git checkout (имя пользователя)
+git checkout (branch_name) 
 ```
 
 Получение информации от программы о его текущем состоянии:
@@ -87,6 +87,8 @@ git merge
 ```sh
 git config --global user.email "kolyolenichev6@gmail.com"
 ```
-
+Создать новую ветку:
+```sh
+git branch (branch_name)
 
 
